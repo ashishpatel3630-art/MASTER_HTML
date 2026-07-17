@@ -559,11 +559,6 @@ https://github.com/ashishpatel3630-art
 ```
 
 
-LinkedIn:
-
-```
-https://linkedin.com/in/yourprofile
-```
 
 
 ---
