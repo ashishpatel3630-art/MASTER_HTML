@@ -228,10 +228,6 @@ HTML-MASTER-PROJECT/
 │         └── intro.mp3
 │
 │
-├── documents/
-│      └── resume.pdf
-│
-│
 └── README.md
 
 ```
