@@ -485,27 +485,6 @@ Convert into:
 
 ---
 
-# 📸 Screenshots
-
-
-Add screenshots here:
-
-
-```
-screenshots/
-
-home.png
-
-documentation.png
-
-tags.png
-
-forms.png
-
-```
-
----
-
 # ⚡ How To Run Project
 
 
