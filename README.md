@@ -219,9 +219,7 @@ HTML-MASTER-PROJECT/
 ├── assets/
 │
 │   ├── images/
-│   │     ├── logo.png
 │   │     ├── html.png
-│   │     └── profile.jpg
 │   │
 │   ├── videos/
 │   │     └── html-course.mp4
