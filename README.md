@@ -563,22 +563,6 @@ https://github.com/ashishpatel3630-art
 
 ---
 
-# ⭐ Support
-
-If you found this project useful:
-
-⭐ Star the repository  
-🍴 Fork it  
-📢 Share it with developers  
-
-
----
-
-# 📜 License
-
-This project is open-source and available under the MIT License.
-
----
 
 # 🎉 Final Goal
 
