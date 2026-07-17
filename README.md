@@ -490,9 +490,6 @@ Convert into:
 
 ### Clone Repository
 
-```bash
-git clone https://github.com/yourusername/HTML-MASTER-PROJECT.git
-```
 
 
 ### Open Folder
