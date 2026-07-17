@@ -213,10 +213,6 @@ HTML-MASTER-PROJECT/
 │   ├── tags.html
 │   ├── forms.html
 │   ├── contact.html
-│   ├── blog.html
-│   ├── gallery.html
-│   ├── resume.html
-│   ├── pricing.html
 │   └── faq.html
 │
 │
